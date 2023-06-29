@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/xiaoyingsun/Projects/json-schema-validator/target/scala-3.2.2/json-schema-validator_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Demo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/xiaoyingsun/Projects/json-schema-validator/target/scala-3.2.2/classes/Demo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Demo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/xiaoyingsun/Projects/json-schema-validator/target/scala-3.2.2/classes/Demo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Demo.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/xiaoyingsun/Projects/json-schema-validator/target/scala-3.2.2/classes/Demo.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
