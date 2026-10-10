@@ -1,0 +1,12 @@
+# macOS metadata
+.DS_Store
+
+# sbt build output at every directory level
+target/
+
+# Local IDE and build-server metadata
+.idea/
+*.iml
+.bsp/
+.bloop/
+.metals/
